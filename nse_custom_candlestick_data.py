@@ -1,8 +1,6 @@
 import requests, json, pandas as pd, time, math
 import datetime
-import yfinance
 from datetime import date
-from nsetools import Nse
 from bs4 import BeautifulSoup as bs
 
 
