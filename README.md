@@ -1,5 +1,7 @@
 # nse-custom-timeframe-data
 
+## A BUG: got introduced, MCIndexToCode is not working correctly, needs fix.
+
 This script allows one to download candlestick data from Moneycontrol and EconomicTimes at realtime with per minute granularity.
 Data can be taken both in json and pandas dataframe format.
 
